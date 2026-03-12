@@ -28,6 +28,10 @@ npm install
 - Backend only: `npm run dev:server`
 - Frontend + backend together: `npm run dev:full`
 
+#### JEST Tests
+
+- Tests only: `npm run test`
+
 Default dev URLs:
 
 - Frontend: `http://localhost:5173`
